@@ -1,5 +1,6 @@
 public class TestMain{
     public static void main(String[] args) {
-             int i;
+             String s= "vasa";
+        System.out.println(s);
     }
 }
